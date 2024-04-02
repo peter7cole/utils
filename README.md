@@ -1,3 +1,3 @@
 # utils
 
-- [RGB to Hex](./glassmorphism)
+- [RGB to Hex](./rgbToHex.ts)
